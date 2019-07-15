@@ -1,4 +1,4 @@
 # Libra-Japan
 Miscellaneous projects relating Libra in Japan.  
-Please reach to me via Telegram if any. 
+Please feel free to reach to me @tommyyama via Telegram. 
 
