@@ -1,2 +1,2 @@
-About intellectual property/Patent 
+About intellectual property/Patent for the product delivered 
 
