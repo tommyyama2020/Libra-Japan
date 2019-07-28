@@ -2,9 +2,11 @@
 
 ### Libra Japan
 
+![undraw_connected_world_wuay](/Users/user/Downloads/undraw_connected_world_wuay.jpg)
 
+[^]:  Decentralized network
 
- Welcome to our GitHub.
+ Welcome to our GitHub
 
 ```
 Miscellaneous projects relating Libra in mainly APAC region.
