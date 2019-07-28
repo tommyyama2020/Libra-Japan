@@ -1,6 +1,6 @@
 
 
-### Libra Japan
+## Libra Japan
 
 ![undraw_connected_world_wuay](undraw_connected_world_wuay.jpg)
 
