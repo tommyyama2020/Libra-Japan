@@ -4,5 +4,7 @@
 
 Miscellaneous projects relating Libra in mainly APAC region.
 
+### Please visit our site for more info
+
 Please feel free to reach to me @tommyyama via Telegram for the feedback. 
 
