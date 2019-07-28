@@ -13,8 +13,7 @@
 ```
 Miscellaneous projects relating Libra in mainly APAC region.
 
-Please visit our site here for more info and feel free to 
-reach to @tommyyama via Telegram for your inquiry. 
+Please visit our site here for more info and feel free to reach to me at @tommyyama via Telegram. 
 
 We're also pleased to provide all libra projects in Japanese.
 
