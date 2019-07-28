@@ -2,7 +2,7 @@
 
 ### Libra Japan
 
-![undraw_connected_world_wuay](/Users/user/Downloads/undraw_connected_world_wuay.jpg)
+![undraw_connected_world_wuay](undraw_connected_world_wuay.jpg)
 
 [^]:  Decentralized network
 
