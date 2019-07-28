@@ -4,7 +4,7 @@
 
 Miscellaneous projects relating Libra in mainly APAC region.
 
-# Please visit our site(Libra Japan) for more info.
+#### Please visit our site(Libra Japan) for more info.
 
 Please feel free to reach to me @tommyyama via Telegram for the feedback. 
 
