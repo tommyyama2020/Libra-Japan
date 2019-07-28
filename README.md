@@ -4,7 +4,9 @@
 
 ![undraw_connected_world_wuay](undraw_connected_world_wuay.jpg)
 
-[^]:  Decentralized network
+[^]: Decentralized and low-cost bankability for everyone in the world
+
+
 
  Welcome to our GitHub
 
