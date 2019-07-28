@@ -1,15 +1,23 @@
 
 
-### Libran Japan
-
-[^]: 
+### Libra Japan
 
 
+
+ Welcome to our GitHub.
 
 ```
 Miscellaneous projects relating Libra in mainly APAC region.
 
-Please visit our site here for more info and feel free to reach to @tommyyama via Telegram for your feedback. 
+Please visit our site here for more info and feel free to 
+reach to @tommyyama via Telegram for your inquiry. 
+
+We're also pleased to provide all libra projects in Japanese.
+
+→日本語でのリクエストなどはこちら 
+
+
+
 ```
 
 
@@ -19,3 +27,5 @@ Please visit our site here for more info and feel free to reach to @tommyyama vi
 Libra Official Site: https://libra.org/
 
 Official Developer Site: https://developers.libra.org/
+
+Github provided by Facebook: https://github.com/libra/libra
