@@ -19,12 +19,11 @@ We're also pleased to provide all libra projects in Japanese.
 
 Our explorer: >>>> https://explorer.jibra.org
 
-→日本語でのリクエストなどはこちら 
+→日本語でのリクエストなどはこちら ➡️　https://www.jibra.org/index_jp.html
 
 
 
 ```
-
 
 
 ##### <u>About Libra</u>
