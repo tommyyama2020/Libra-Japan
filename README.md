@@ -17,6 +17,8 @@ Please visit our site here for more info and feel free to reach to me at @tommyy
 
 We're also pleased to provide all libra projects in Japanese.
 
+Our explorer: >>>> https://explorer.jibra.org
+
 →日本語でのリクエストなどはこちら 
 
 
